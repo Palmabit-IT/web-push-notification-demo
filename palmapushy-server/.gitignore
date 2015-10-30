@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+npm-debug.log
+db.json
+node_modules
+send_push.txt

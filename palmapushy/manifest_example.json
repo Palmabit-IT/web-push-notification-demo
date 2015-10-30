@@ -1,0 +1,16 @@
+{
+  "name": "Pushy",
+  "short_name": "Pushy",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "148x116",
+    "type": "image/png"
+  }],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "gcm_sender_id": "xxxxxxxxxxxxx",
+  "gcm_user_visible_only": true,
+  "permissions": [
+    "gcm"
+  ]
+}
